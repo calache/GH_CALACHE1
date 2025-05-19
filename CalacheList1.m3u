@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1, tvg-id="Antena3HD" tvg-logo="https://i.imgur.com/USbmwiC.png" tvg-name="Antena3HD" group-title="General",Antena3HD
+#EXTINF:-1,tvg-id="Antena3HD" tvg-logo="https://i.imgur.com/USbmwiC.png" tvg-name="Antena3HD" group-title="General",Antena3HD
 http://185.189.225.150:85/Antena3HD/index.m3u8
