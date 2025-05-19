@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1,Antena3 group-title="NACIONAL"
+#EXTINF:-1,Antena3,group-title="NACIONAL"
 http://185.189.225.150:85/Antena3HD/index.m3u8
-#EXTINF:-1,La1 group-title="NACIONAL"
+#EXTINF:-1,La1,group-title="NACIONAL"
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
-#EXTINF:-1,La2 group-title="NACIONAL"
+#EXTINF:-1,La2,group-title="NACIONAL"
 http://185.189.225.150:85/TV2/index.m3u8
 #EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Generalistas" tvg-name="La 2"La 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
