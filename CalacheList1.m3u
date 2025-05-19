@@ -3,11 +3,17 @@
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 #EXTINF:-1, tvg-id="Antena3.es" tvg-logo="https://i.imgur.com/USbmwiC.png" 
 http://185.189.225.150:85/Antena3HD/index.m3u8
-#EXTINF:-1, tvg-id="AragonTV.es" tvg-logo="https://i.imgur.com/6YSi1zW.png"
-https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: ARAGON TV INT SD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6138.jpg?69648" group-title="ES| TDT ESPAÑA VIP",ES: ARAGON TV INT SD
+http://185.189.225.150:85/boing/index.m3u8
 
 #EXTINF:-1 tvg-id="Boing.es" tvg-logo="https://i.imgur.com/nUYuCAP.png" group-title=Boing
 http://185.189.225.150:85/boing/index.m3u8
+
+#EXTINF:-1, tvg-id="AragonTV.es" tvg-logo="https://i.imgur.com/6YSi1zW.png"
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+
 #EXTINF:-1 tvg-id="Canal2.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Canal_2_TCS.png/512px-Canal_2_TCS.png" group-title="General",Canal 2
 https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
 #EXTINF:-1 tvg-id="Canal4.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/512px-Canal_4_TCS.png" group-title="General" referrer="https://www.tcsgo.com/",Canal 4
